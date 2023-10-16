@@ -1,2 +1,2 @@
 # projeto-landingpage
-Este é o projeto de senvolvimento do curso de tecnologia da escola DNC.
+Este é o projeto de desenvolvimento do curso de tecnologia da escola DNC.
